@@ -124,7 +124,21 @@ This framework facilitates a systematic analysis of the intrinsic trade-offs bet
 - [Instruction Tuning and CoT Prompting for Contextual Medical QA with LLMs](https://arxiv.org/abs/2506.12182)
 - [LIFE-CRAFT: A Multi-agentic Conversational RAG Framework for Lifestyle Medicine Coaching with Context Traceability and Case-Based Evidence Synthesis](https://dl.acm.org/doi/abs/10.1007/978-3-032-06004-4_9)
 #### 👥Cooperation
+- [MedLA: A Logic-Driven Multi-Agent Framework for Complex Medical Reasoning with Large Language Models](https://arxiv.org/abs/2509.23725)
+- [ConfAgents: A Conformal-Guided Multi-Agent Framework for Cost-Efficient Medical Diagnosis](https://arxiv.org/abs/2508.04915)
+- [Advancing Healthcare Automation: Multi-Agent System for Medical Necessity Justification](https://arxiv.org/abs/2404.17977)
+- [A Two-Stage Proactive Dialogue Generator for Efficient Clinical Information Collection Using Large Language Model](https://arxiv.org/abs/2410.03770)
+- [Mediator-Guided Multi-Agent Collaboration among Open-Source Models for Medical Decision-Making](https://arxiv.org/abs/2508.05996)
+- [DynamiCare: A Dynamic Multi-Agent Framework for Interactive and Open-Ended Medical Decision-Making](https://arxiv.org/abs/2507.02616)
+- [MAS-PatientCare: Medical Diagnosis and Patient Management System Based on a Multi-agent Architecture](https://link.springer.com/chapter/10.1007/978-3-031-84093-7_17)
+- [Inquire, Interact, and Integrate: A Proactive Agent Collaborative Framework for Zero-Shot Multimodal Medical Reasoning](https://arxiv.org/abs/2405.11640)
 #### ⏫Self-evolution
+- [Self-Evolving Multi-Agent Simulations for Realistic Clinical Interactions](https://arxiv.org/abs/2503.22678)
+- [Integrating Dynamical Systems Learning with Foundational Models: A Meta-Evolutionary AI Framework for Clinical Trials](https://arxiv.org/abs/2506.14782)
+- [MedPAO: A Protocol-Driven Agent for Structuring Medical Reports](https://link.springer.com/chapter/10.1007/978-3-032-06004-4_4)
+- [Agentic Surgical AI: Surgeon Style Fingerprinting and Privacy Risk Quantification via Discrete Diffusion in a Vision-Language-Action Framework](https://arxiv.org/abs/2506.08185)
+- [Improving Interactive Diagnostic Ability of a Large Language Model Agent Through Clinical Experience Learning](https://arxiv.org/abs/2503.16463)
+- [Silence is Not Consensus: Disrupting Agreement Bias in Multi-Agent LLMs via Catfish Agent for Clinical Decision Making](https://arxiv.org/abs/2505.21503)
 ### 🤖**GS**
 #### 📊Planning
 #### 🧠Memory
