@@ -226,6 +226,16 @@ This framework facilitates a systematic analysis of the intrinsic trade-offs bet
 - [Stage-Aware Hierarchical Attentive Relational Network for Diagnosis Prediction](https://ieeexplore.ieee.org/document/10236511)
 - [RULE: Reliable Multimodal RAG for Factuality in Medical Vision Language Models](https://arxiv.org/abs/2407.05131)
 #### 🧠Memory
+- [M-QALM: A Benchmark to Assess Clinical Reading Comprehension and Knowledge Recall in Large Language Models via Question Answering](https://aclanthology.org/2024.findings-acl.238/)
+- [PIPA: A Unified Evaluation Protocol for Diagnosing Interactive Planning Agents](https://arxiv.org/abs/2505.01592)
+- [EMRs2CSP : Mining Clinical Status Pathway from Electronic Medical Records](https://aclanthology.org/2025.findings-acl.886/)
+- [Medical Graph RAG: Evidence-based Medical Large Language Model via Graph Retrieval-Augmented Generation](https://aclanthology.org/2025.acl-long.1381/)
+- [MedRAG: Enhancing Retrieval-augmented Generation with Knowledge Graph-Elicited Reasoning for Healthcare Copilot](https://arxiv.org/abs/2502.04413)
+- [CardioTRAP: Design of a Retrieval Augmented System (RAG) for Clinical Data in Cardiology](https://ieeexplore.ieee.org/document/11081642)
+- [CLI-RAG: A Retrieval-Augmented Framework for Clinically Structured and Context Aware Text Generation with LLMs](https://arxiv.org/abs/2507.06715)
+- [HI-DR: Exploiting Health Status-Aware Attention and an EHR Graph+ for Effective Medication Recommendation](https://ojs.aaai.org/index.php/AAAI/article/view/33301)
+- [Listening to Patients: Detecting and Mitigating Patient Misreport in Medical Dialogue System](https://aclanthology.org/2025.findings-acl.135/)
+- [End-to-End Agentic RAG System Training for Traceable Diagnostic Reasoning](https://arxiv.org/abs/2508.15746)
 #### 🧰Action
 #### 👥Cooperation
 - [Enhancing Clinical Trial Patient Matching through Knowledge Augmentation and Reasoning with Multi-Agent](https://arxiv.org/abs/2411.14637)
