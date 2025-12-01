@@ -270,9 +270,9 @@ Your contributions are always welcome! Please contact [Chuang Zhao](https://gith
 ## ✍️ Citation
 If you find this code useful for your research, please cite our paper:
 ```bibtex
-@inproceedings{zhao2025reinv,
+@inproceedings{ADM2025reinv,
   title={Reinventing Clinical Dialogue: Agentic Paradigms for LLM‑Enabled Healthcare Communication},
-  author={Zhao, Chuang and Zhi, Xiaoquan and Zhao, Hongke and Wu, Likang and Zhu, Hengshu},
+  author={ADM Lab},
   year={2025}
 }
 ```
