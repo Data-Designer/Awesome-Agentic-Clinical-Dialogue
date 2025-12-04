@@ -1,6 +1,6 @@
 <div align="center">
   <!-- 替换 href 为你的 header.svg 的真实路径，如果是在同级目录直接写文件名 -->
-  <img src="./header.svg" width="100%" alt="Awesome-Agentic-Clinical-Dialogue/blob/main/assets/header.svg" />
+  <img src="https://github.com/xqz614/Awesome-Agentic-Clinical-Dialogue/blob/main/assets/header.svg" width="100%" alt="Awesome-Agentic-Clinical-Dialogue/blob/main/assets/header.svg" />
 
   <br/>
   <br/>
