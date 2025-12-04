@@ -8,7 +8,7 @@ This framework facilitates a systematic analysis of the intrinsic trade-offs bet
 
 ## 📁 Table of Contents
 - [Key Categories](#-key-categories)
-- [Awesome Methods, Model and Resource List](#-resource-list)
+- [Awesome Methods, Model and Resource List](#-awesome-methods-model-and-resource-list)
   - [LSC](#lsc)
     - [Planning](#planning)
     - [Memory](#memory)
@@ -267,11 +267,11 @@ This framework facilitates a systematic analysis of the intrinsic trade-offs bet
 - [A Survey of Self-Evolving Agents: On Path to Artificial Super Intelligence](https://arxiv.org/abs/2507.21046)
 - [Evolving Collective Cognition in Human-Agent Hybrid Societies: How Agents Form Stances and Boundaries](https://arxiv.org/abs/2508.17366)
 
-## ✳️Awesome Dataset
+## ✳️**Awesome Dataset**
+### I. **QA Dialogue**
 
 | Dataset Name | Time (Pub) | Downstream Task | Brief Description | Source |
 | :--- | :--- | :--- | :--- | :--- |
-| **I. QA Dialogue** | | | | |
 | **MedQA** | 2020 | Medical Examination (QA) | Large-scale multiple-choice questions collected from professional medical board exams (USMLE, Mainland China, Taiwan). | [paper](https://arxiv.org/abs/2009.13081), [soource](https://github.com/jind11/MedQA/) |
 | **MedMCQA** | 2022 | Medical Examination (QA) | Large-scale, multiple-choice QA dataset derived from Indian medical entrance examinations (AIIMS/NEET). | [paper](https://arxiv.org/abs/2203.14371), [source](https://github.com/MedMCQA/MedMCQA)|
 | **cMedQA2** | 2019 | QA / Retrieval | Chinese medical QA dataset with queries and answers from online health counseling platforms. | [paper](https://ieeexplore.ieee.org/abstract/document/8548603), [source](https://github.com/zhangsheng93/cMedQA2) |
@@ -292,7 +292,11 @@ This framework facilitates a systematic analysis of the intrinsic trade-offs bet
 | **MedHallu** | 2025 | QA / Hallucination | 10k Q-A pairs derived from PubMedQA annotated to detect and categorize medical hallucinations. | [Gao et al., 2025](https://arxiv.org/abs/2502.14691) |
 | **MedicationQA** | 2019 | Consumer Health QA | Dataset of consumer questions about medications (drug interactions, dosage) with expert answers. | [Ben Abacha et al., 2019](https://arxiv.org/abs/1908.10023) |
 | **RJUA-MedDQA** | 2024 | QA / Multimodal | Multimodal benchmark for medical document understanding (images/reports) and clinical reasoning. | [Jin et al., 2024](https://arxiv.org/abs/2402.14840) |
-| **II. Task-oriented Dialogue** | | | | |
+
+### **II. Task-oriented Dialogue**
+
+| Dataset Name | Time (Pub) | Downstream Task | Brief Description | Source |
+| :--- | :--- | :--- | :--- | :--- |
 | **MedDialog** | 2020 | Symptom Diagnosis | Massive dataset (English/Chinese) of doctor-patient conversations scraped from online platforms. | [Zeng et al., 2020](https://arxiv.org/abs/2004.03329) |
 | **DialoAMC** | 2023 | Symptom Diagnosis | Dataset for Automated Medical Consultation focusing on symptom elicitation and diagnosis. | [Chen et al., 2023](https://doi.org/10.1145/3539618.3591901) |
 | **MedDG** | 2022 | Symptom Diagnosis | High-quality entity-annotated medical dialogue dataset for diagnosis and treatment recommendation. | [Liu et al., 2022](https://arxiv.org/abs/2010.07497) |
@@ -310,13 +314,21 @@ This framework facilitates a systematic analysis of the intrinsic trade-offs bet
 | **BianqueCorpus** | 2023 | Instruction Following | Large-scale multi-turn Chinese health conversation dataset with balanced questioning/suggestions. | [Chen et al., 2023](https://arxiv.org/abs/2306.03030) |
 | **MedSynth** | 2025 | Generation / Summarization | Synthetic medical dialogue-note pairs designed to advance dialogue-to-note and note-to-dialogue tasks. | [Rezaei et al., 2025](https://arxiv.org/abs/2508.01401) |
 | **MeQSum** | 2019 | Summarization / Instruction | Dataset for summarizing consumer health questions into canonical medical questions. | [Abacha et al., 2019](https://www.aclweb.org/anthology/P19-1215/) |
-| **III. Recommendation Dialogue**| | | | |
+
+### **III. Recommendation Dialogue**
+
+| Dataset Name | Time (Pub) | Downstream Task | Brief Description | Source |
+| :--- | :--- | :--- | :--- | :--- |
 | **DialMed** | 2022 | Recommendation (Drug) | Dialogue dataset designed for medication recommendation based on patient history/dialogue. | [He et al., 2022](https://arxiv.org/abs/2202.08779) |
 | **ReMeDi** | 2021 | Recommendation | "Resources for Medical Dialogue"; focuses on movie/medical recommendation scenarios. | [Yan et al., 2021](https://aclanthology.org/2021.emnlp-main.288/) |
 | **MIMIC-III** | 2016 | Database (Source) | Large database of de-identified health-related data (EHRs) used to construct recommendation tasks. | [Johnson et al., 2016](https://www.nature.com/articles/sdata201635) |
 | **DrugBank** | - | Knowledge Base (Source) | Comprehensive database containing information on drugs and drug targets, used for grounding recommendations. | [Wishart et al.](https://go.drugbank.com/) |
 | **ProKnow-data** | 2020 | Recommendation | Data used for proactive knowledge-grounded dialogue, often adapted for medical contexts. | [Liu et al., 2020](https://arxiv.org/abs/2010.13328) |
-| **IV. Supportive Dialogue** | | | | |
+
+### **IV. Supportive Dialogue** 
+
+| Dataset Name | Time (Pub) | Downstream Task | Brief Description | Source |
+| :--- | :--- | :--- | :--- | :--- |
 | **EmpatheticDialogues**| 2019 | General Empathetic | Large dataset of 25k conversations grounded in emotional situations (general domain). | [Rashkin et al., 2019](https://arxiv.org/abs/1811.00207) |
 | **MELD** | 2019 | General Empathetic | Multimodal EmotionLines Dataset; textual/audio/visual emotion recognition. | [Poria et al., 2019](https://arxiv.org/abs/1810.02508) |
 | **PsyQA** | 2021 | Mental Health Support | Chinese dataset of psychological health support (Q&A) with strategy annotations. | [Sun et al., 2021](https://arxiv.org/abs/2106.01702) |
@@ -324,13 +336,18 @@ This framework facilitates a systematic analysis of the intrinsic trade-offs bet
 | **SoulChat-Corpus** | 2023 | Mental Health Support | Large-scale Chinese dataset for single-turn and multi-turn empathetic psychological counseling. | [Chen et al., 2023](https://arxiv.org/abs/2304.09842) |
 | **MTS-Dialogue** | 2023 | Clinical Support/Summ. | 1.7k doctor-patient conversations paired with corresponding clinical note summaries. | [Abacha et al., 2023](https://aclanthology.org/2023.eacl-main.168/) |
 | **SMILECHAT** | 2023 | Mental Health Support | Dataset for mental health support focusing on cognitive distortion detection and reframing. | [Qiu et al., 2023](https://arxiv.org/abs/2304.09842) |
-| **V. Hybrid Function** | | | | |
+
+### **V. Hybrid Function** 
+
+| Dataset Name | Time (Pub) | Downstream Task | Brief Description | Source |
+| :--- | :--- | :--- | :--- | :--- |
 | **MidMed** | 2023 | Hybrid (Diag/Rec/Chat) | Mixed-type dialogue corpus covering diagnosis, recommendation, QA, and chitchat in one session. | [Shi et al., 2023](https://arxiv.org/abs/2306.02923) |
 | **MedEval** | 2023 | Evaluation Benchmark | Multi-level, multi-task benchmark spanning 35 body regions and 8 exam modalities for LLM eval. | [He et al., 2023](https://arxiv.org/abs/2310.14088) |
 | **MedTrinity-25M** | 2024 | Multimodal / Hybrid | Massive multimodal dataset (25M images) with multigranular annotations (Image-ROI-Text). | [Xie et al., 2024](https://arxiv.org/abs/2408.02900) |
 | **MENTAT** | 2025 | Mental Health / Hybrid | Clinician-annotated benchmark for complex psychiatric decision-making (diagnosis, triage, etc.). | [Stanford, 2025](https://hai.stanford.edu/research/mentat) |
 | **MedAlpaca** | 2023 | Instruction Tuning | Collection of datasets (see Medical Meadow) used to train the MedAlpaca model series. | [Han et al., 2023](https://arxiv.org/abs/2304.08247) |
 | **NoteChat** | 2023 | Generation / Hybrid | Synthetic patient-physician conversations conditioned on clinical notes (Note-to-Dialogue). | [Wang et al., 2023](https://arxiv.org/abs/2310.15959) |
+
 ## 🤝 Contributing
 Your contributions are always welcome! Please contact [Xiaoquan Zhi](https://github.com/xqz614) or [Chuang Zhao](https://github.com/Data-Designer)
 ## ✍️ Citation
