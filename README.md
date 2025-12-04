@@ -377,21 +377,51 @@ This framework facilitates a systematic analysis of the intrinsic trade-offs bet
   > A multi-agent RAG system designed for lifestyle medicine coaching that ensures advice is traceable to case-based evidence.
 
 #### 👥Cooperation
-- [MedLA: A Logic-Driven Multi-Agent Framework for Complex Medical Reasoning with Large Language Models](https://arxiv.org/abs/2509.23725)
-- [ConfAgents: A Conformal-Guided Multi-Agent Framework for Cost-Efficient Medical Diagnosis](https://arxiv.org/abs/2508.04915)
-- [Advancing Healthcare Automation: Multi-Agent System for Medical Necessity Justification](https://arxiv.org/abs/2404.17977)
-- [A Two-Stage Proactive Dialogue Generator for Efficient Clinical Information Collection Using Large Language Model](https://arxiv.org/abs/2410.03770)
-- [Mediator-Guided Multi-Agent Collaboration among Open-Source Models for Medical Decision-Making](https://arxiv.org/abs/2508.05996)
-- [DynamiCare: A Dynamic Multi-Agent Framework for Interactive and Open-Ended Medical Decision-Making](https://arxiv.org/abs/2507.02616)
-- [MAS-PatientCare: Medical Diagnosis and Patient Management System Based on a Multi-agent Architecture](https://link.springer.com/chapter/10.1007/978-3-031-84093-7_17)
-- [Inquire, Interact, and Integrate: A Proactive Agent Collaborative Framework for Zero-Shot Multimodal Medical Reasoning](https://arxiv.org/abs/2405.11640)
+
+- **MedLA: A Logic-Driven Multi-Agent Framework for Complex Medical Reasoning with Large Language Models** (_arXiv_, 2025) [paper](https://arxiv.org/abs/2509.23725)
+  > Proposes a logic-driven multi-agent framework where agents organize reasoning into explicit syllogistic trees to ensure transparent and verifiable medical decision-making.
+
+- **ConfAgents: A Conformal-Guided Multi-Agent Framework for Cost-Efficient Medical Diagnosis** (_arXiv_, 2025) [paper](https://arxiv.org/abs/2508.04915)
+  > Introduces a conformal prediction-based triage mechanism that dynamically assigns cases to single agents or multi-agent teams, balancing accuracy and computational cost.
+
+- **Advancing Healthcare Automation: Multi-Agent System for Medical Necessity Justification** (_BioNLP_, 2024) [paper](https://arxiv.org/abs/2404.17977)
+  > Deploys a multi-agent system to automate the labor-intensive process of prior authorization by justifying medical necessity against clinical guidelines.
+
+- **A Two-Stage Proactive Dialogue Generator for Efficient Clinical Information Collection Using Large Language Model** (_Expert Syst. Appl._, 2025) [paper](https://arxiv.org/abs/2410.03770)
+  > Develops a diagnostic dialogue system with a two-stage recommendation structure to proactively collect critical patient information and mimic real-doctor conversational styles.
+
+- **Mediator-Guided Multi-Agent Collaboration among Open-Source Models for Medical Decision-Making** (_arXiv_, 2025) [paper](https://arxiv.org/abs/2508.05996)
+  > Utilizes a mediator agent to facilitate Socratic dialogue and reflection among open-source Vision-Language Models (VLMs), enhancing multimodal diagnostic performance.
+
+- **DynamiCare: A Dynamic Multi-Agent Framework for Interactive and Open-Ended Medical Decision-Making** (_arXiv_, 2025) [paper](https://arxiv.org/abs/2507.02616)
+  > Models clinical diagnosis as a dynamic, multi-round loop where the agent team iteratively queries a patient system (MIMIC-Patient) and adapts its strategy based on new findings.
+
+- **MAS-PatientCare: Medical Diagnosis and Patient Management System Based on a Multi-agent Architecture** (_Springer CCIS_, 2025) [paper](https://link.springer.com/chapter/10.1007/978-3-031-84093-7_17)
+  > Proposes a comprehensive multi-agent architecture for remote patient monitoring that integrates diagnostic reasoning with patient management workflows.
+
+- **Inquire, Interact, and Integrate: A Proactive Agent Collaborative Framework for Zero-Shot Multimodal Medical Reasoning** (_arXiv_, 2024) [paper](https://arxiv.org/abs/2405.11640)
+  > A proactive framework that enables agents to autonomously inquire about missing modalities and integrate multimodal evidence for zero-shot medical reasoning.
+
 #### ⏫Self-evolution
-- [Self-Evolving Multi-Agent Simulations for Realistic Clinical Interactions](https://arxiv.org/abs/2503.22678)
-- [Integrating Dynamical Systems Learning with Foundational Models: A Meta-Evolutionary AI Framework for Clinical Trials](https://arxiv.org/abs/2506.14782)
-- [MedPAO: A Protocol-Driven Agent for Structuring Medical Reports](https://link.springer.com/chapter/10.1007/978-3-032-06004-4_4)
-- [Agentic Surgical AI: Surgeon Style Fingerprinting and Privacy Risk Quantification via Discrete Diffusion in a Vision-Language-Action Framework](https://arxiv.org/abs/2506.08185)
-- [Improving Interactive Diagnostic Ability of a Large Language Model Agent Through Clinical Experience Learning](https://arxiv.org/abs/2503.16463)
-- [Silence is Not Consensus: Disrupting Agreement Bias in Multi-Agent LLMs via Catfish Agent for Clinical Decision Making](https://arxiv.org/abs/2505.21503)
+
+- **Self-Evolving Multi-Agent Simulations for Realistic Clinical Interactions (MedAgentSim)** (_MICCAI_, 2025) [paper](https://arxiv.org/abs/2503.22678), [code](https://github.com/MAXNORM8650/MedAgentSim)
+  > Introduces a simulation environment where doctor and patient agents interact and self-evolve through experience replay and feedback, significantly improving diagnostic realism.
+
+- **Integrating Dynamical Systems Learning with Foundational Models: A Meta-Evolutionary AI Framework for Clinical Trials** (_arXiv_, 2025) [paper](https://arxiv.org/abs/2506.14782)
+  > Combines dynamical systems theory with LLMs to create a meta-evolutionary framework that optimizes clinical trial designs and simulates patient trajectories.
+
+- **MedPAO: A Protocol-Driven Agent for Structuring Medical Reports** (_HCII_, 2025) [paper](https://link.springer.com/chapter/10.1007/978-3-032-06004-4_4)
+  > Presents an agent that strictly follows medical protocols to structure unstructured clinical reports, ensuring high compliance and data quality.
+
+- **Agentic Surgical AI: Surgeon Style Fingerprinting and Privacy Risk Quantification via Discrete Diffusion in a Vision-Language-Action Framework** (_arXiv_, 2025) [paper](https://arxiv.org/abs/2506.08185)
+  > Explores the privacy risks of agentic surgical AI by demonstrating how "surgeon style" can be identified and protected using discrete diffusion models.
+
+- **Improving Interactive Diagnostic Ability of a Large Language Model Agent Through Clinical Experience Learning** (_arXiv_, 2025) [paper](https://arxiv.org/abs/2503.16463)
+  > Enhances the initial diagnostic capabilities of LLM agents by simulating clinical experience learning, bridging the gap between passive knowledge and active inquiry.
+
+- **Silence is Not Consensus: Disrupting Agreement Bias in Multi-Agent LLMs via Catfish Agent for Clinical Decision Making** (_arXiv_, 2025) [paper](https://arxiv.org/abs/2505.21503)
+  > Introduces a "Catfish Agent" designed to inject structured dissent into multi-agent discussions, preventing premature consensus (groupthink) in medical diagnosis.
+
 ### 🤖**GS**
 #### 📊Planning
 - [HyKGE: A Hypothesis Knowledge Graph Enhanced Framework for Accurate and Reliable Medical LLMs Responses](https://arxiv.org/abs/2312.15883)
