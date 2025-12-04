@@ -6,10 +6,6 @@ Read our survey paper here: [Reinventing Clinical Dialogue: Agentic Paradigms fo
 This framework facilitates a systematic analysis of the intrinsic trade-offs between creativity and reliability by categorizing methods into four archetypes: Latent Space Clinicians, Emergent Planners, Grounded Synthesizers, and Veriffable Workffow Automators. For each paradigm, we deconstruct the technical realization across the entire cognitive pipeline, encompassing strategic planning, memory management, action execution, collaboration, and evolution, to reveal how distinct architectural choices balance the tension between autonomy and safety. Furthermore, we bridge abstract design philosophies with the pragmatic implementation ecosystem. By mapping real-world applications to our taxonomy and systematically reviewing benchmarks and evaluation metrics speciffc to clinical agents, we provide a comprehensive reference for future development.
 <p align="center"><img src="https://github.com/xqz614/Awesome-Agentic-Clinical-Dialogue/blob/main/image/taxonomy.png" height="500px"></p>
 
-## Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=xqz614/Awesome-Agentic-Clinical-Dialogue&type=date&legend=top-left)](https://www.star-history.com/#xqz614/Awesome-Agentic-Clinical-Dialogue&type=date&legend=top-left)
-
 ## 📁 Table of Contents
 - [Key Categories](#-key-categories)
 - [Start with Awesome Dataset](#%EF%B8%8Fawesome-dataset)
@@ -360,6 +356,9 @@ This framework facilitates a systematic analysis of the intrinsic trade-offs bet
 - [A Survey of Self-Evolving Agents: On Path to Artificial Super Intelligence](https://arxiv.org/abs/2507.21046)
 - [Evolving Collective Cognition in Human-Agent Hybrid Societies: How Agents Form Stances and Boundaries](https://arxiv.org/abs/2508.17366)
 
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=xqz614/Awesome-Agentic-Clinical-Dialogue&type=date&legend=top-left)](https://www.star-history.com/#xqz614/Awesome-Agentic-Clinical-Dialogue&type=date&legend=top-left)
 
 
 ## 🤝 Contributing
