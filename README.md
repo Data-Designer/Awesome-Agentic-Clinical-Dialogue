@@ -1,3 +1,41 @@
+<div align="center">
+  <!-- 替换 href 为你的 header.svg 的真实路径，如果是在同级目录直接写文件名 -->
+  <img src="./header.svg" width="100%" alt="https://github.com/xqz614/Awesome-Agentic-Clinical-Dialogue/blob/main/assets/header.svg" />
+
+  <br/>
+  <br/>
+
+  <a href="https://github.com/xqz614/Awesome-Agentic-Clinical-Dialogue/stargazers">
+    <img src="https://img.shields.io/github/stars/xqz614/Awesome-Agentic-Clinical-Dialogue?style=for-the-badge&logo=github&color=42d392" alt="Stars">
+  </a>
+  <a href="https://github.com/xqz614/Awesome-Agentic-Clinical-Dialogue/network/members">
+    <img src="https://img.shields.io/github/forks/xqz614/Awesome-Agentic-Clinical-Dialogue?style=for-the-badge&logo=github&color=647eff" alt="Forks">
+  </a>
+  <a href="https://github.com/xqz614/Awesome-Agentic-Clinical-Dialogue/issues">
+    <img src="https://img.shields.io/github/issues/xqz614/Awesome-Agentic-Clinical-Dialogue?style=for-the-badge&logo=github&color=a78bfa" alt="Issues">
+  </a>
+  <a href="https://github.com/xqz614/Awesome-Agentic-Clinical-Dialogue/blob/main/LICENSE">
+    <img src="https://img.shields.io/github/license/xqz614/Awesome-Agentic-Clinical-Dialogue?style=for-the-badge&logo=github&color=orange" alt="License">
+  </a>
+
+  <br/>
+  <br/>
+
+  <p align="center">
+    <strong>🤖 Empowering Healthcare with Intelligent Agents</strong>
+    <br />
+    A curated list of papers, codes, and datasets for Agentic Clinical Dialogue systems.
+    <br />
+    <br />
+    <a href="#-latest-papers">Latest Papers</a> •
+    <a href="#-datasets">Datasets</a> •
+    <a href="#-benchmarks">Benchmarks</a> •
+    <a href="#-frameworks">Frameworks</a>
+  </p>
+</div>
+
+
+
 # 🤖 Awesome-Agentic-Clinical-Dialogue
 This repo includes papers about methods related to agentic clinical dialogue. We believe that the agentic paradi is still a largely unexplored area, and we hope this repository will provide you with some valuable insights!
 
