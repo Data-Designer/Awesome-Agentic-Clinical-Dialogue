@@ -269,7 +269,7 @@ This framework facilitates a systematic analysis of the intrinsic trade-offs bet
 
 ## ✳️Awesome Dataset
 
-| Dataset Name | Time (Pub) | Downstream Task | Brief Description | Source (Paper/Link) |
+| Dataset Name | Time (Pub) | Downstream Task | Brief Description | Source |
 | :--- | :--- | :--- | :--- | :--- |
 | **I. QA Dialogue** | | | | |
 | **MedQA** | 2020 | Medical Examination (QA) | Large-scale multiple-choice questions collected from professional medical board exams (USMLE, Mainland China, Taiwan). | [paper](https://arxiv.org/abs/2009.13081), [soource](https://github.com/jind11/MedQA/) |
