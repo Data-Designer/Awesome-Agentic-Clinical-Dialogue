@@ -190,23 +190,56 @@ This framework facilitates a systematic analysis of the intrinsic trade-offs bet
 
 
 #### 🧠Memory
-- [Focus on What Matters: Enhancing Medical Vision-Language Models with Automatic Attention Alignment Tuning](https://arxiv.org/abs/2505.18503)
-- [Rethinking the Role of Demonstrations: What Makes In-Context Learning Work?](https://arxiv.org/abs/2202.12837)
-- [HuatuoGPT-II, One-stage Training for Medical Adaption of LLMs](https://arxiv.org/abs/2311.09774)
-- [Diagnostic reasoning prompts reveal the potential for large language model interpretability in medicine](https://www.nature.com/articles/s41746-024-01010-1)
-- [AttriPrompter: Auto-Prompting with Attribute Semantics for Zero-shot Nuclei Detection via Visual-Language Pre-trained Models](https://arxiv.org/abs/2410.16820)
-- [A context-based chatbot surpasses radiologists and generic ChatGPT in following the ACR appropriateness guidelines](https://pubmed.ncbi.nlm.nih.gov/37489981/)
-- [MedVH: Towards Systematic Evaluation of Hallucination for Large Vision Language Models in the Medical Context](https://arxiv.org/abs/2407.02730)
-- [The FAIIR conversational AI agent assistant for youth mental health service provision](https://www.nature.com/articles/s41746-025-01647-6)
-- [Galactica: A Large Language Model for Science](https://arxiv.org/abs/2211.09085)
-- [Clinical ModernBERT: An efficient and long context encoder for biomedical text](https://arxiv.org/abs/2504.03964)
-- [Dk-behrt: Teaching language models international classification of disease (icd) codes using known disease descriptions](https://proceedings.mlr.press/v281/an25a.html)
-- [Context Clues: Evaluating Long Context Models for Clinical Prediction Tasks on EHRs](https://arxiv.org/abs/2412.16178)
-- [Recursively Summarizing Enables Long-Term Dialogue Memory in Large Language Models](https://arxiv.org/abs/2308.15022)
-- [Adapted large language models can outperform medical experts in clinical text summarization](https://www.nature.com/articles/s41591-024-02855-5)
-- [BioLORD-2023: Semantic Textual Representations Fusing LLM and Clinical Knowledge Graph Insights](https://arxiv.org/abs/2311.16075)
-- [Towards evaluating and building versatile large language models for medicine](https://arxiv.org/abs/2311.16075)
-- [AI-Enabled Conversational Journaling for Advancing Parkinson's Disease Symptom Tracking](https://arxiv.org/abs/2503.03532)
+
+- **Focus on What Matters: Enhancing Medical Vision-Language Models with Automatic Attention Alignment Tuning** (_arXiv_, 2025) [paper](https://arxiv.org/abs/2505.18503)
+  > Proposes an Automatic Attention Alignment (AAA) mechanism to align the visual attention of VLMs with clinical masks, enhancing interpretability and performance.
+
+- **Rethinking the Role of Demonstrations: What Makes In-Context Learning Work?** (_EMNLP_, 2022) [paper](https://arxiv.org/abs/2202.12837), [code](https://github.com/SewonMin/icl-demonstrations)
+  > Demonstrates that the ground-truth accuracy of labels in demonstrations matters less than the label space and distribution, reshaping the understanding of in-context learning.
+
+- **HuatuoGPT-II: One-stage Training for Medical Adaption of LLMs** (_ACL Findings_, 2024) [paper](https://arxiv.org/abs/2311.09774), [code](https://github.com/FreedomIntelligence/HuatuoGPT-II)
+  > Introduces a one-stage training protocol that unifies medical domain adaptation and general instruction following, simplifying the training pipeline.
+
+- **Diagnostic reasoning prompts reveal the potential for large language model interpretability in medicine** (_npj Digit. Med._, 2024) [paper](https://www.nature.com/articles/s41746-024-01010-1), [code](https://github.com/autonlab/DR-Prompting)
+  > Investigates the use of structured prompting strategies to elicit and visualize the diagnostic reasoning paths of LLMs, improving transparency.
+
+- **AttriPrompter: Auto-Prompting with Attribute Semantics for Zero-shot Nuclei Detection via Visual-Language Pre-trained Models** (_MICCAI_, 2024) [paper](https://arxiv.org/abs/2410.16820), [code](https://github.com/Hao-Z-2000/AttriPrompter)
+  > A zero-shot framework utilizing attribute-based text prompts to guide visual-language models in detecting nuclei without task-specific training.
+
+- **A context-based chatbot surpasses radiologists and generic ChatGPT in following the ACR appropriateness guidelines** (_Sci. Rep._, 2023) [paper](https://pubmed.ncbi.nlm.nih.gov/37489981/)
+  > Develops a specialized chatbot that leverages clinical context to adhere to ACR appropriateness guidelines more accurately than human radiologists.
+
+- **MedVH: Towards Systematic Evaluation of Hallucination for Large Vision Language Models in the Medical Context** (_ECCV_, 2024) [paper](https://arxiv.org/abs/2407.02730), [code](https://github.com/OpenMEDLab/MedVH)
+  > Establishes a comprehensive benchmark and evaluation dataset specifically designed to detect and analyze hallucinations in medical vision-language models.
+
+- **The FAIIR conversational AI agent assistant for youth mental health service provision** (_npj Digit. Med._, 2025) [paper](https://www.nature.com/articles/s41746-025-01647-6)
+  > Presents FAIIR, a conversational agent designed to assist in the triage and service provision for youth mental health, reducing clinician workload.
+
+- **Galactica: A Large Language Model for Science** (_arXiv_, 2022) [paper](https://arxiv.org/abs/2211.09085), [code](https://github.com/paperswithcode/galgal)
+  > A large language model trained on a massive corpus of scientific knowledge, designed to store, reason, and generate scientific content.
+
+- **Clinical ModernBERT: An efficient and long context encoder for biomedical text** (_arXiv_, 2025) [paper](https://arxiv.org/abs/2504.03964)
+  > Adapts the ModernBERT architecture to the clinical domain, offering a high-efficiency encoder capable of processing long-context electronic health records.
+
+- **DK-BEHRT: Teaching language models international classification of disease (ICD) codes using known disease descriptions** (_CHIL_, 2024) [paper](https://proceedings.mlr.press/v281/an25a.html), [code](https://github.com/pathology-dynamics/DK-BEHRT)
+  > Enhances the BEHRT model by incorporating textual descriptions of diseases, significantly improving the accuracy of automated ICD coding.
+
+- **Context Clues: Evaluating Long Context Models for Clinical Prediction Tasks on EHRs** (_arXiv_, 2024) [paper](https://arxiv.org/abs/2412.16178)
+  > Benchmarks various long-context LLMs on their ability to extract relevant information from lengthy and complex electronic health records.
+
+- **Recursively Summarizing Enables Long-Term Dialogue Memory in Large Language Models** (_ACL Findings_, 2024) [paper](https://arxiv.org/abs/2308.15022), [code](https://github.com/fatemehsc/Re-Sum)
+  > Proposes a recursive summarization technique to compress dialogue history, enabling LLMs to maintain long-term memory in medical consultations.
+
+- **Adapted large language models can outperform medical experts in clinical text summarization** (_Nat. Med._, 2024) [paper](https://www.nature.com/articles/s41591-024-02855-5)
+  > Provides empirical evidence that domain-adapted LLMs generate clinical summaries that are rated higher in quality and accuracy than those by human experts.
+
+- **BioLORD-2023: Semantic Textual Representations Fusing LLM and Clinical Knowledge Graph Insights** (_EMNLP Findings_, 2023) [paper](https://arxiv.org/abs/2311.16075), [code](https://github.com/Michal-Stefanik/BioLORD-2023)
+  > Produces rich semantic textual representations by grounding LLM generation in definitions and relationships from clinical knowledge graphs.
+
+- **AI-Enabled Conversational Journaling for Advancing Parkinson's Disease Symptom Tracking** (_arXiv_, 2025) [paper](https://arxiv.org/abs/2503.03532)
+  > Develops a conversational agent that engages patients in journaling to track and analyze Parkinson's disease symptoms over time.
+
+
 #### 👥Cooperation
 - [MEDCO: Medical Education Copilots Based on A Multi-Agent Framework](https://arxiv.org/abs/2408.12496)
 - [ColaCare: Enhancing Electronic Health Record Modeling through Large Language Model-Driven Multi-Agent Collaboration](https://dl.acm.org/doi/abs/10.1145/3696410.3714877)
