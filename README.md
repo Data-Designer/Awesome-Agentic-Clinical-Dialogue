@@ -8,7 +8,7 @@ This framework facilitates a systematic analysis of the intrinsic trade-offs bet
 
 ## 📁 Table of Contents
 - [Key Categories](#-key-categories)
-- [Resource List](#-resource-list)
+- [Awesome Methods, Model and Resource List](#-resource-list)
   - [LSC](#lsc)
     - [Planning](#planning)
     - [Memory](#memory)
@@ -31,7 +31,7 @@ This framework facilitates a systematic analysis of the intrinsic trade-offs bet
     - [Action](#action-1)
     - [Cooperation](#cooperation-3)
     - [Self-evolution](#self-evolution-3)
-  - [Dataset](#dataset)
+- [Awesome Dataset](#%EF%B8%8Fawesome-dataset)
 - [Contributing](#-contributing)
 - [Citation](#%EF%B8%8F-citation)
 ## 🔑 Key Categories
