@@ -19,7 +19,6 @@
   <br/>
 
   <p align="center">
-    <strong>🤖 Empowering Healthcare with Intelligent Agents</strong>
     <br />
     A curated list of papers, codes, and datasets for Agentic Clinical Dialogue systems.
     <br />
@@ -31,9 +30,6 @@
   </p>
 </div>
 
-
-
-# 🤖 Awesome-Agentic-Clinical-Dialogue
 This repo includes papers about methods related to agentic clinical dialogue. We believe that the agentic paradi is still a largely unexplored area, and we hope this repository will provide you with some valuable insights!
 
 Read our survey paper here: [Reinventing Clinical Dialogue: Agentic Paradigms for LLM‑Enabled Healthcare Communication](https://arxiv.org/abs/2512.01453)
