@@ -612,36 +612,96 @@ This framework facilitates a systematic analysis of the intrinsic trade-offs bet
 
 ### 🤖**VWA**
 #### 📊Planning
-- [VITA: 'Carefully Chosen and Weighted Less' Is Better in Medication Recommendation](https://arxiv.org/abs/2312.12100)
-- [EMRs2CSP : Mining Clinical Status Pathway from Electronic Medical Records](https://aclanthology.org/2025.findings-acl.886/)
-- [HealthBranches: Synthesizing Clinically-Grounded Question Answering Datasets via Decision Pathways](https://arxiv.org/abs/2508.07308)
-- [From Questions to Clinical Recommendations: Large Language Models Driving Evidence-Based Clinical Decision Making](https://arxiv.org/abs/2505.10282)
-- [CMQCIC-Bench: A Chinese Benchmark for Evaluating Large Language Models in Medical Quality Control Indicator Calculation](https://arxiv.org/abs/2502.11703)
-- [Augmenting Black-box LLMs with Medical Textbooks for Biomedical Question Answering](https://arxiv.org/abs/2309.02233)
-- [M-QALM: A Benchmark to Assess Clinical Reading Comprehension and Knowledge Recall in Large Language Models via Question Answering](https://aclanthology.org/2024.findings-acl.238/)
-- [Listening to Patients: Detecting and Mitigating Patient Misreport in Medical Dialogue System](https://aclanthology.org/2025.findings-acl.135/)
-- [Visual and Domain Knowledge for Professional-level Graph-of-Thought Medical Reasoning](https://icml.cc/virtual/2025/poster/43761)
-- [MedPlan:A Two-Stage RAG-Based System for Personalized Medical Plan Generation](https://arxiv.org/abs/2503.17900)
-- [PIPA: A Unified Evaluation Protocol for Diagnosing Interactive Planning Agents](https://arxiv.org/abs/2505.01592)
-- [RGAR: Recurrence Generation-augmented Retrieval for Factual-aware Medical Question Answering](https://arxiv.org/abs/2502.13361)
-- [End-to-End Agentic RAG System Training for Traceable Diagnostic Reasoning](https://arxiv.org/abs/2508.15746)
-- [Labeling-free RAG-enhanced LLM for intelligent fault diagnosis via reinforcement learning](https://www.sciencedirect.com/science/article/pii/S1474034625007578)
-- [The Helicobacter pylori AI-clinician harnesses artificial intelligence to personalise H. pylori treatment recommendations](https://www.nature.com/articles/s41467-025-61329-5)
-- [Continual contrastive reinforcement learning: Towards stronger agent for environment-aware fault diagnosis of aero-engines through long-term optimization under highly imbalance scenarios](https://www.sciencedirect.com/science/article/pii/S1474034625001909)
-- [Integration of Multi-Source Medical Data for Medical Diagnosis Question Answering](https://ieeexplore.ieee.org/document/10752912)
-- [Stage-Aware Hierarchical Attentive Relational Network for Diagnosis Prediction](https://ieeexplore.ieee.org/document/10236511)
-- [RULE: Reliable Multimodal RAG for Factuality in Medical Vision Language Models](https://arxiv.org/abs/2407.05131)
+
+- **VITA: 'Carefully Chosen and Weighted Less' Is Better in Medication Recommendation** (_AAAI_, 2024) [paper](https://arxiv.org/abs/2312.12100), [code](https://github.com/Ying-Jie-Tan/VITA)
+  > Proposes a medication recommendation framework that prioritizes selecting the most critical drugs over comprehensive but redundant lists, improving safety.
+
+- **EMRs2CSP: Mining Clinical Status Pathway from Electronic Medical Records** (_ACL Findings_, 2025) [paper](https://aclanthology.org/2025.findings-acl.886/)
+  > Extracts Clinical Status Pathways (CSP) from EHRs to model the temporal progression of patient states, aiding in proactive clinical planning.
+
+- **HealthBranches: Synthesizing Clinically-Grounded Question Answering Datasets via Decision Pathways** (_arXiv_, 2025) [paper](https://arxiv.org/abs/2508.07308)
+  > Generates synthetic QA datasets by simulating clinical decision pathways (branches), ensuring the data reflects realistic diagnostic logic.
+
+- **From Questions to Clinical Recommendations: Large Language Models Driving Evidence-Based Clinical Decision Making** (_arXiv_, 2025) [paper](https://arxiv.org/abs/2505.10282)
+  > A comprehensive study on using LLMs to translate clinical questions directly into evidence-based recommendations, evaluating their utility in decision support.
+
+- **CMQCIC-Bench: A Chinese Benchmark for Evaluating Large Language Models in Medical Quality Control Indicator Calculation** (_arXiv_, 2025) [paper](https://arxiv.org/abs/2502.11703)
+  > Establishes a benchmark for calculating Medical Quality Control Indicators (MQCIs) from medical records, testing LLMs' ability to perform precise administrative planning.
+
+- **Augmenting Black-box LLMs with Medical Textbooks for Biomedical Question Answering** (_arXiv_, 2023) [paper](https://arxiv.org/abs/2309.02233)
+  > Enhances black-box LLMs by retrieving relevant context from trusted medical textbooks, improving the accuracy of biomedical planning and QA.
+
+- **M-QALM: A Benchmark to Assess Clinical Reading Comprehension and Knowledge Recall in Large Language Models via Question Answering** (_ACL Findings_, 2024) [paper](https://aclanthology.org/2024.findings-acl.238/)
+  > A benchmark designed to evaluate long-context clinical reading comprehension, essential for planning based on extensive patient history.
+
+- **Listening to Patients: Detecting and Mitigating Patient Misreport in Medical Dialogue System** (_ACL Findings_, 2025) [paper](https://aclanthology.org/2025.findings-acl.135/)
+  > Addresses the planning challenge where patients provide incorrect information, proposing a mechanism to detect and mitigate these misreports during dialogue.
+
+- **Visual and Domain Knowledge for Professional-level Graph-of-Thought Medical Reasoning** (_ICML_, 2025) [paper](https://icml.cc/virtual/2025/poster/43761)
+  > Utilizes a Graph-of-Thought approach integrated with visual and domain knowledge to achieve professional-level reasoning in medical diagnostics.
+
+- **MedPlan: A Two-Stage RAG-Based System for Personalized Medical Plan Generation** (_arXiv_, 2025) [paper](https://arxiv.org/abs/2503.17900)
+  > Generates personalized treatment plans by first retrieving general guidelines and then adapting them to specific patient data in a two-stage process.
+
+- **PIPA: A Unified Evaluation Protocol for Diagnosing Interactive Planning Agents** (_arXiv_, 2025) [paper](https://arxiv.org/abs/2505.01592)
+  > A protocol for evaluating interactive agents on their ability to plan diagnostic inquiries and gather information efficiently.
+
+- **RGAR: Recurrence Generation-augmented Retrieval for Factual-aware Medical Question Answering** (_arXiv_, 2025) [paper](https://arxiv.org/abs/2502.13361)
+  > Introduces a recurrence mechanism where the model's own generation is used to refine subsequent retrieval queries for better factuality.
+
+- **End-to-End Agentic RAG System Training for Traceable Diagnostic Reasoning** (_arXiv_, 2025) [paper](https://arxiv.org/abs/2508.15746)
+  > Trains an end-to-end agentic system that not only diagnoses but also provides a traceable reasoning path linked to retrieved evidence.
+
+- **Labeling-free RAG-enhanced LLM for intelligent fault diagnosis via reinforcement learning** (_Eng. Appl. Artif. Intell._, 2025) [paper](https://www.sciencedirect.com/science/article/pii/S1474034625007578)
+  > *[Methodology]* Integrates RAG and RL for fault diagnosis without labeled data. (Note: Domain is primarily industrial fault diagnosis, not clinical).
+
+- **The Helicobacter pylori AI-clinician harnesses artificial intelligence to personalise H. pylori treatment recommendations** (_Nat. Commun._, 2025) [paper](https://www.nature.com/articles/s41467-025-61329-5)
+  > An AI-clinician system that personalizes antibiotic treatment plans for *H. pylori* infection, significantly improving eradication rates.
+
+- **Continual contrastive reinforcement learning: Towards stronger agent for environment-aware fault diagnosis of aero-engines through long-term optimization under highly imbalance scenarios** (_Eng. Appl. Artif. Intell._, 2025) [paper](https://www.sciencedirect.com/science/article/pii/S1474034625001909)
+  > *[Methodology]* A reinforcement learning agent for diagnosing aero-engine faults. (Note: Domain is industrial engineering, included for completeness of input list).
+
+- **Integration of Multi-Source Medical Data for Medical Diagnosis Question Answering** (_IEEE Access_, 2024) [paper](https://ieeexplore.ieee.org/document/10752912)
+  > Proposes a method to integrate heterogeneous medical data sources (text, structured data) to answer diagnostic questions more accurately.
+
+- **Stage-Aware Hierarchical Attentive Relational Network for Diagnosis Prediction** (_IEEE JBHI_, 2023) [paper](https://ieeexplore.ieee.org/document/10236511)
+  > A hierarchical network that captures the stage-wise progression of diseases from EHR data for precise diagnosis prediction.
+
+- **RULE: Reliable Multimodal RAG for Factuality in Medical Vision Language Models** (_arXiv_, 2024) [paper](https://arxiv.org/abs/2407.05131)
+  > Enhances the factuality of medical VLMs by retrieving and grounding responses in reliable multimodal evidence during generation.
+
 #### 🧠Memory
-- [M-QALM: A Benchmark to Assess Clinical Reading Comprehension and Knowledge Recall in Large Language Models via Question Answering](https://aclanthology.org/2024.findings-acl.238/)
-- [PIPA: A Unified Evaluation Protocol for Diagnosing Interactive Planning Agents](https://arxiv.org/abs/2505.01592)
-- [EMRs2CSP : Mining Clinical Status Pathway from Electronic Medical Records](https://aclanthology.org/2025.findings-acl.886/)
-- [Medical Graph RAG: Evidence-based Medical Large Language Model via Graph Retrieval-Augmented Generation](https://aclanthology.org/2025.acl-long.1381/)
-- [MedRAG: Enhancing Retrieval-augmented Generation with Knowledge Graph-Elicited Reasoning for Healthcare Copilot](https://arxiv.org/abs/2502.04413)
-- [CardioTRAP: Design of a Retrieval Augmented System (RAG) for Clinical Data in Cardiology](https://ieeexplore.ieee.org/document/11081642)
-- [CLI-RAG: A Retrieval-Augmented Framework for Clinically Structured and Context Aware Text Generation with LLMs](https://arxiv.org/abs/2507.06715)
-- [HI-DR: Exploiting Health Status-Aware Attention and an EHR Graph+ for Effective Medication Recommendation](https://ojs.aaai.org/index.php/AAAI/article/view/33301)
-- [Listening to Patients: Detecting and Mitigating Patient Misreport in Medical Dialogue System](https://aclanthology.org/2025.findings-acl.135/)
-- [End-to-End Agentic RAG System Training for Traceable Diagnostic Reasoning](https://arxiv.org/abs/2508.15746)
+
+- **M-QALM: A Benchmark to Assess Clinical Reading Comprehension and Knowledge Recall in Large Language Models via Question Answering** (_ACL Findings_, 2024) [paper](https://aclanthology.org/2024.findings-acl.238/)
+  > Establishes a benchmark specifically designed to evaluate the clinical reading comprehension and long-term knowledge recall capabilities of LLMs.
+
+- **PIPA: A Unified Evaluation Protocol for Diagnosing Interactive Planning Agents** (_arXiv_, 2025) [paper](https://arxiv.org/abs/2505.01592)
+  > (Also listed in Planning) A protocol evaluating how agents manage diagnostic history and plan information-gathering steps in interactive scenarios.
+
+- **EMRs2CSP: Mining Clinical Status Pathway from Electronic Medical Records** (_ACL Findings_, 2025) [paper](https://aclanthology.org/2025.findings-acl.886/)
+  > (Also listed in Planning) Mines Clinical Status Pathways (CSP) to represent the temporal progression and memory of patient states from EHRs.
+
+- **Medical Graph RAG: Evidence-based Medical Large Language Model via Graph Retrieval-Augmented Generation** (_ACL_, 2025) [paper](https://aclanthology.org/2025.acl-long.1381/)
+  > Enhances LLM memory by integrating a medical knowledge graph into the RAG process, ensuring generation is grounded in structured evidence.
+
+- **MedRAG: Enhancing Retrieval-augmented Generation with Knowledge Graph-Elicited Reasoning for Healthcare Copilot** (_arXiv_, 2025) [paper](https://arxiv.org/abs/2502.04413)
+  > Uses knowledge graph-elicited reasoning to optimize the retrieval component, providing a more robust memory mechanism for healthcare copilots.
+
+- **CardioTRAP: Design of a Retrieval Augmented System (RAG) for Clinical Data in Cardiology** (_IEEE_, 2025) [paper](https://ieeexplore.ieee.org/document/11081642)
+  > Designs a specialized RAG system for cardiology that effectively retrieves and utilizes patient-specific clinical data (memory) for decision support.
+
+- **CLI-RAG: A Retrieval-Augmented Framework for Clinically Structured and Context Aware Text Generation with LLMs** (_arXiv_, 2025) [paper](https://arxiv.org/abs/2507.06715)
+  > A RAG framework capable of handling structured clinical data and maintaining context awareness during long-text generation.
+
+- **HI-DR: Exploiting Health Status-Aware Attention and an EHR Graph+ for Effective Medication Recommendation** (_AAAI_, 2025) [paper](https://ojs.aaai.org/index.php/AAAI/article/view/33301)
+  > Utilizes a health status-aware attention mechanism and an enhanced EHR graph to capture patient history memory for precise medication recommendation.
+
+- **Listening to Patients: Detecting and Mitigating Patient Misreport in Medical Dialogue System** (_ACL Findings_, 2025) [paper](https://aclanthology.org/2025.findings-acl.135/)
+  > (Also listed in Planning) Focuses on verifying the reliability of patient-provided information (memory of symptoms) during medical dialogues.
+
+- **End-to-End Agentic RAG System Training for Traceable Diagnostic Reasoning** (_arXiv_, 2025) [paper](https://arxiv.org/abs/2508.15746)
+  > (Also listed in Planning) Trains an agentic system where the retrieval (memory) and reasoning components are optimized end-to-end for traceability.
+
 #### 🧰Action
 - [CardioTRAP: Design of a Retrieval Augmented System (RAG) for Clinical Data in Cardiology](https://ieeexplore.ieee.org/document/11081642)
 - [CLI-RAG: A Retrieval-Augmented Framework for Clinically Structured and Context Aware Text Generation with LLMs](https://arxiv.org/abs/2507.06715)
