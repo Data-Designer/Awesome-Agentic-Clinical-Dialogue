@@ -102,8 +102,8 @@ This framework facilitates a systematic analysis of the intrinsic trade-offs bet
 | **MedicationQA** | 2019 | Consumer Health QA | Dataset of consumer questions about medications (drug interactions, dosage) with expert answers. | [paper](https://arxiv.org/abs/1908.10023), [source](https://github.com/abachaa/Medication_QA_MedInfo2019) |
 | **RJUA-MedDQA** | 2024 | QA / Multimodal | Multimodal benchmark for medical document understanding (images/reports) and clinical reasoning. | [paper](https://arxiv.org/abs/2402.14840), [source](https://github.com/Alipay-Med/medDQA_benchmark) |
 
-### **II. Task-oriented Dialogue** [Back to Content](#-table-of-contents)
-
+### **II. Task-oriented Dialogue**
+[Back to Content](#-table-of-contents)
 | Dataset Name | Time (Pub) | Downstream Task | Brief Description | Source |
 | :--- | :--- | :--- | :--- | :--- |
 | **MedDialog** | 2020 | Symptom Diagnosis | Massive dataset (English/Chinese) of doctor-patient conversations scraped from online platforms. | [paper](https://arxiv.org/abs/2004.03329), [source](https://github.com/UCSD-AI4H/Medical-Dialogue-System) |
@@ -124,8 +124,8 @@ This framework facilitates a systematic analysis of the intrinsic trade-offs bet
 | **MedSynth** | 2025 | Generation / Summarization | Synthetic medical dialogue-note pairs designed to advance dialogue-to-note and note-to-dialogue tasks. | [paper](https://arxiv.org/abs/2508.01401), [source](https://github.com/ahmadrezarm/MedSynth) |
 | **MeQSum** | 2019 | Summarization / Instruction | Dataset for summarizing consumer health questions into canonical medical questions. | [paper](https://www.aclweb.org/anthology/P19-1215/), [source](https://github.com/abachaa/MeQSum) |
 
-### **III. Recommendation Dialogue** [Back to Content](#-table-of-contents)
-
+### **III. Recommendation Dialogue**
+[Back to Content](#-table-of-contents)
 | Dataset Name | Time (Pub) | Downstream Task | Brief Description | Source |
 | :--- | :--- | :--- | :--- | :--- |
 | **DialMed** | 2022 | Recommendation (Drug) | Dialogue dataset designed for medication recommendation based on patient history/dialogue. | [paper](https://arxiv.org/abs/2202.08779), [source](https://github.com/f-window/DialMed) |
@@ -134,8 +134,8 @@ This framework facilitates a systematic analysis of the intrinsic trade-offs bet
 | **DrugBank** | - | Knowledge Base (Source) | Comprehensive database containing information on drugs and drug targets, used for grounding recommendations. | [paper](https://go.drugbank.com/), [source](https://go.drugbank.com/releases) |
 | **ProKnow-data** | 2020 | Recommendation | Data used for proactive knowledge-grounded dialogue, often adapted for medical contexts. | [paper](https://arxiv.org/abs/2010.13328), [source](https://github.com/zhw12/ProKnow) |
 
-### **IV. Supportive Dialogue** [Back to Content](#-table-of-contents)
-
+### **IV. Supportive Dialogue**
+[Back to Content](#-table-of-contents)
 | Dataset Name | Time (Pub) | Downstream Task | Brief Description | Source |
 | :--- | :--- | :--- | :--- | :--- |
 | **EmpatheticDialogues** | 2019 | General Empathetic | Large dataset of 25k conversations grounded in emotional situations (general domain). | [paper](https://arxiv.org/abs/1811.00207), [source](https://github.com/facebookresearch/EmpatheticDialogues) |
@@ -146,8 +146,8 @@ This framework facilitates a systematic analysis of the intrinsic trade-offs bet
 | **MTS-Dialogue** | 2023 | Clinical Support/Summ. | 1.7k doctor-patient conversations paired with corresponding clinical note summaries. | [paper](https://aclanthology.org/2023.eacl-main.168/), [source](https://github.com/abachaa/MTS-Dialog) |
 | **SMILECHAT** | 2023 | Mental Health Support | Dataset for mental health support focusing on cognitive distortion detection and reframing. | [paper](https://arxiv.org/abs/2311.00445), [source](https://github.com/qiuhuachuan/smile) |
 
-### **V. Hybrid Function** [Back to Content](#-table-of-contents)
-
+### **V. Hybrid Function**
+[Back to Content](#-table-of-contents)
 | Dataset Name | Time (Pub) | Downstream Task | Brief Description | Source |
 | :--- | :--- | :--- | :--- | :--- |
 | **MidMed** | 2023 | Hybrid (Diag/Rec/Chat) | Mixed-type dialogue corpus covering diagnosis, recommendation, QA, and chitchat in one session. | [paper](https://arxiv.org/abs/2306.02923), [source](https://github.com/xmshi-trio/MidMed) |
@@ -157,7 +157,8 @@ This framework facilitates a systematic analysis of the intrinsic trade-offs bet
 | **MedAlpaca** | 2023 | Instruction Tuning | Collection of datasets (see Medical Meadow) used to train the MedAlpaca model series. | [paper](https://arxiv.org/abs/2304.08247), [source](https://github.com/kbressem/medAlpaca) |
 | **NoteChat** | 2023 | Generation / Hybrid | Synthetic patient-physician conversations conditioned on clinical notes (Note-to-Dialogue). | [paper](https://arxiv.org/abs/2310.15959), [source](https://github.com/believewhat/Dr.NoteAid) |
 
-## ⛪ Leading Group [Back to Content](#-table-of-contents)
+## ⛪ Leading Group
+[Back to Content](#-table-of-contents)
 | Institution | Leading Researcher/Group | Source |
 | :--- | :--- | :--- | 
 |Google|Google Health|[Homepage](https://health.google/pubs/)|
@@ -182,9 +183,12 @@ This framework facilitates a systematic analysis of the intrinsic trade-offs bet
 |Mbzuai|Jianing Qiu|[Homepage](https://mbzuai.ac.ae/study/faculty/jianing-qiu/)|
 
 
-## 📖 Awesome Methods, Model, and Resource List [Back to Content](#-table-of-contents)
-### 🤖**LSC** [Back to Content](#-table-of-contents)
-#### 📊Planning [Back to Content](#-table-of-contents)
+## 📖 Awesome Methods, Model, and Resource List
+[Back to Content](#-table-of-contents)
+### 🤖**LSC**
+[Back to Content](#-table-of-contents)
+#### 📊Planning
+[Back to Content](#-table-of-contents)
 - **BioGPT: generative pre-trained transformer for biomedical text generation and mining** (_Briefings Bioinf._, 2023) [paper](https://arxiv.org/abs/2210.10341), [code](https://github.com/microsoft/BioGPT)
   > A domain-specific generative Transformer pre-trained on large-scale biomedical literature to achieve state-of-the-art performance in text generation and mining tasks.
 
