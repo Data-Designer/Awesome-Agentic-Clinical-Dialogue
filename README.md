@@ -168,6 +168,7 @@ This framework facilitates a systematic analysis of the intrinsic trade-offs bet
 |Baichuan AI|AI Lab|[Homepage](https://github.com/baichuan-inc)|
 |Tecent|Jarvislab|[Homepage](https://jarvislab.tencent.com/)|
 |Huawei|NoAH|[Homepage](http://dev3.noahlab.com.hk/research.html)|
+|ByteDance|Seed,AI for Science Team|[Homepage](https://seed.bytedance.com/zh/direction/ai_for_science)|
 |Microsoft Research|Hoifung Poon|[Homepage](https://scholar.google.com/citations?user=yqqmVbkAAAAJ&hl=en)|
 |TJU|ADM Group|[Homepage](https://www.adm-cube.online/)|
 |UIUC|Jimeng Sun|[Homepage](https://www.sunlab.org/)|
