@@ -161,6 +161,7 @@ This framework facilitates a systematic analysis of the intrinsic trade-offs bet
 | Institution | Leading Researcher/Group | Source |
 | :--- | :--- | :--- | 
 |Google|Google Health|[Homepage](https://health.google/pubs/)|
+|NIH|Zhiyong Lu|[Homepage](https://www.ncbi.nlm.nih.gov/research/bionlp/)|
 |Open AI|Health AI Team|[Homepage](https://openai.com/science/)|
 |Ant Group|AI for Science Team|[Homepage](https://www.antgroup.com/en)|
 |Alibaba|Tongyi Lab, Damo|[Homepage](https://github.com/Alibaba-NLP), [Homepage](https://github.com/alibaba-damo-academy)|
@@ -170,19 +171,22 @@ This framework facilitates a systematic analysis of the intrinsic trade-offs bet
 |Huawei|NoAH|[Homepage](http://dev3.noahlab.com.hk/research.html)|
 |ByteDance|Seed,AI for Science Team|[Homepage](https://seed.bytedance.com/zh/direction/ai_for_science)|
 |Microsoft Research|Hoifung Poon|[Homepage](https://scholar.google.com/citations?user=yqqmVbkAAAAJ&hl=en)|
-|Harvard|Xiang Li, Faisal Mahmood Lab, Pranav Rajpurkar|[Homepage](https://xiangli-shaun.github.io/), [Homepage](https://faisal.ai/), [Homepage](https://pranavrajpurkar.com/)|
-|MIT|Paul Liang|[Homepage](https://pliang279.github.io/)|
+|Harvard|Xiang Li, Faisal Mahmood Lab, Pranav Rajpurkar, Tianxi Cai|[Homepage](https://xiangli-shaun.github.io/), [Homepage](https://faisal.ai/), [Homepage](https://pranavrajpurkar.com/), [Homepage](Tianxi Cai)|
+|Maryland|Hanan Samet|[Homepage](https://www.cs.umd.edu/~hjs/)|
+|MIT|Paul Liang, Peter Szolovits|[Homepage](https://pliang279.github.io/), [Homepage](https://people.csail.mit.edu/psz/web/publications.html)|
 |Oxford|Tingting Zhu|[Homepage](https://eng.ox.ac.uk/people/tingting-zhu)|
-|Cambridge|Vanderschaar-lab|[Homepage](https://www.vanderschaar-lab.com/prof-mihaela-van-der-schaar/)|
+|Cambridge|Vanderschaar-lab, Andreas Vlachos|[Homepage](https://www.vanderschaar-lab.com/prof-mihaela-van-der-schaar/), [Homepage](https://andreasvlachos.github.io/)|
+|NTU|Chunyan Miao|[Homepage](https://dr.ntu.edu.sg/entities/person/Miao-Chun-Yan)|
 |Tsinghua University|Yang Liu, Hong-Yu Zhou, Weizhi Ma|[Homepage](https://nlp.csai.tsinghua.edu.cn/~ly/), [Homepage](https://zhouhy.org/), [Homepage](https://mawz12.github.io/)|
 |UNC|Tianlong Chen, Huaxiu Yao|[Homepage](https://genai4health.github.io/), [Homepage](https://www.huaxiuyao.io/)|
+|Yale|Clinical NLP Lab|[Homepage](https://medicine.yale.edu/lab/clinical-nlp/team/)|
 |UBC|Xiaoxiao Li|[Homepage](https://tea.ece.ubc.ca/)|
-|UIUC|Jimeng Sun,Jiawei Han|[Homepage](https://www.sunlab.org/)|
+|UIUC|Jimeng Sun,Jiawei Han|[Homepage](https://www.sunlab.org/), [Homepage](http://hanj.cs.illinois.edu/)|
 |ZJU|DCDmllm|[Homepage](https://github.com/DCDmllm)|
 |Notre Dame|SCLab|[Homepage](https://scl-nd.github.io/)|
-|Pennsylvania|Tianyu Han, Fenglong Ma|[Homepage](https://www.tianyuhan.ai/), [Homepage](https://fenglong-ma.github.io/)|
+|Pennsylvania|Tianyu Han, Fenglong Ma, Lyle Ungar|[Homepage](https://www.tianyuhan.ai/), [Homepage](https://fenglong-ma.github.io/), [Homepage](https://scholar.google.com/citations?hl=en&user=KCiDjbkAAAAJ&view_op=list_works&sortby=pubdate)|
 |Emory|Carl Yang|[Homepage](https://www.cs.emory.edu/~jyang71/)|
-|Stanford|SNAP, James Zou|[Homepage](https://snap.stanford.edu/papers.html), [Homepage](https://zou-group.github.io/index.html)|
+|Stanford|SNAP, James Zou, Yejin Choi|[Homepage](https://snap.stanford.edu/papers.html), [Homepage](https://zou-group.github.io/index.html), [Homepage](https://yejinc.github.io/)|
 |PKU|Liantao Ma, Yasha Wang|[Homepage](http://scholar.pku.edu.cn/malt/home)|
 |TJU|ADM Group|[Homepage](https://www.adm-cube.online/)|
 |Edinburgh|Ewen M Harrison|[Homepage](https://surgery.ed.ac.uk/research/cachexiagroup)|
@@ -195,10 +199,13 @@ This framework facilitates a systematic analysis of the intrinsic trade-offs bet
 |California|Yuyin Zhou|[Homepage](https://yuyinzhou.github.io/)|
 |ETH|Michael Moor|[Homepage](https://michaelmoor.me/)|
 |JOHNS HOPKINS|Suchi Saria|[Homepage](https://www.cs.jhu.edu/faculty/suchi-saria/)|
-|Cornell|Fei Wang|[Homepage](https://wcm-wanglab.github.io/index.html)|
+|Cornell|Fei Wang, Claire Cardie|[Homepage](https://wcm-wanglab.github.io/index.html), [Homepage](https://www.cs.cornell.edu/home/cardie/)|
 |GE Healthcare|Xiao Cao|[Homepage](https://sites.google.com/view/danicaxiao/home)|
 |Rutgers|Mu Zhou|[Homepage](https://sites.google.com/view/mu-zhou)|
 |UT|Ying Ding|[Homepage](https://yingding.ischool.utexas.edu/)|
+|UC Berkeley|Bin Yu|[Homepage](https://binyu.stat.berkeley.edu/#recent-publications-talks-news)|
+|UW|Hannaneh Hajishirzi|[Homepage](https://hannaneh.ai/)|
+|LMU Munich|Volker Tresp|[Homepage](https://www.dbs.ifi.lmu.de/~tresp/)|
 
 ## 📖 Awesome Methods, Model, and Resource List
 ### 🤖**LSC**
