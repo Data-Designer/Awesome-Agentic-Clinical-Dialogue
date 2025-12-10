@@ -185,7 +185,7 @@ This framework facilitates a systematic analysis of the intrinsic trade-offs bet
 |Yale|Clinical NLP Lab|[Homepage](https://medicine.yale.edu/lab/clinical-nlp/team/)|
 |UBC|Xiaoxiao Li|[Homepage](https://tea.ece.ubc.ca/)|
 |UIUC|Jimeng Sun,Jiawei Han|[Homepage](https://www.sunlab.org/), [Homepage](http://hanj.cs.illinois.edu/)|
-|ZJU|DCDmllm|[Homepage](https://github.com/DCDmllm)|
+|ZJU|DCDmllm, Jian Wu|[Homepage](https://github.com/DCDmllm), [Homepage](https://person.zju.edu.cn/0004274)|
 |Notre Dame|SCLab|[Homepage](https://scl-nd.github.io/)|
 |Pennsylvania|Tianyu Han, Fenglong Ma, Lyle Ungar|[Homepage](https://www.tianyuhan.ai/), [Homepage](https://fenglong-ma.github.io/), [Homepage](https://scholar.google.com/citations?hl=en&user=KCiDjbkAAAAJ&view_op=list_works&sortby=pubdate)|
 |Emory|Carl Yang|[Homepage](https://www.cs.emory.edu/~jyang71/)|
