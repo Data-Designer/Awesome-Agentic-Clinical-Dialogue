@@ -211,6 +211,7 @@ This framework facilitates a systematic analysis of the intrinsic trade-offs bet
 |LMU Munich|Volker Tresp|[Homepage](https://www.dbs.ifi.lmu.de/~tresp/)|
 |FuDan|Zhongyu Wei|[Homepage](http://www.fudan-disc.com/people/zywei)|
 |Minnesota|Rui Zhang|[Homepage](https://ruizhang.umn.edu/)|
+|Monash|AIM Lab|[Homepage](https://www.monash.edu/it/aimh-lab)|
 
 ## 📖 Awesome Methods, Model, and Resource List
 [Back to Content](#-table-of-contents)
