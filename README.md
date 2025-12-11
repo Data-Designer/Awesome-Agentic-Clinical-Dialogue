@@ -110,6 +110,7 @@ This framework facilitates a systematic analysis of the intrinsic trade-offs bet
 [Back to Content](#-table-of-contents)
 | Dataset Name | Time (Pub) | Downstream Task | Brief Description | Source |
 | :--- | :--- | :--- | :--- | :--- |
+| **MedReason** | 2025 | Symptom Diagnosis | Large-scale medical reasoning dataset designed to enable explainable medical problem-solving. | [paper](https://arxiv.org/abs/2504.00993), [source]([https://github.com/UCSD-AI4H/Medical-Dialogue-System](https://github.com/UCSC-VLAA/MedReason)) |
 | **MedDialog** | 2020 | Symptom Diagnosis | Massive dataset (English/Chinese) of doctor-patient conversations scraped from online platforms. | [paper](https://arxiv.org/abs/2004.03329), [source](https://github.com/UCSD-AI4H/Medical-Dialogue-System) |
 | **DialoAMC** | 2023 | Symptom Diagnosis | Dataset for Automated Medical Consultation focusing on symptom elicitation and diagnosis. | [paper](https://doi.org/10.1145/3539618.3591901), [source](https://github.com/James-Yip/DialoAMC) |
 | **MedDG** | 2022 | Symptom Diagnosis | High-quality entity-annotated medical dialogue dataset for diagnosis and treatment recommendation. | [paper](https://arxiv.org/abs/2010.07497), [source](https://github.com/lwgkzl/MedDG) |
