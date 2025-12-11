@@ -2,7 +2,7 @@
 
 We are standing at the threshold of a medical renaissance where code meets care. This is the most challenging yet rewarding frontier in AI today. Ready to build the technology that will define the next decade of healthcare? Your journey begins with these world-class resources.
 
-<p align="center"><img src="https://github.com/xqz614/Awesome-Agentic-Clinical-Dialogue/blob/main/image/nano_tutorial.png" height="500px"></p>
+<p align="center"><img src="https://github.com/xqz614/Awesome-Agentic-Clinical-Dialogue/blob/main/image/nano_tutorial.jpg" height="500px"></p>
 
 
 ### Part 1: Courses & Specializations
