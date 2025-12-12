@@ -226,6 +226,8 @@ This framework facilitates a systematic analysis of the intrinsic trade-offs bet
 |FuDan|Zhongyu Wei|[Homepage](http://www.fudan-disc.com/people/zywei)|
 |Minnesota|Rui Zhang|[Homepage](https://ruizhang.umn.edu/)|
 |Monash|AIM Lab|[Homepage](https://www.monash.edu/it/aimh-lab)|
+|USYD|Med AI Lab|[Homepage](https://www.sydney.edu.au/engineering/our-research/biomedical-healthcare-engineering/digital-health-and-biomedical-ai.html)|
+
 
 ## 📖 Awesome Methods, Model, and Resource List
 [Back to Content](#-table-of-contents)
