@@ -932,6 +932,6 @@ If you find this code useful for your research, please cite our paper:
   title={Reinventing Clinical Dialogue: Agentic Paradigms for LLM Enabled Healthcare Communication},
   author={ADM Lab},
   journal={arXiv preprint arXiv:2512.01453},
-  year={2025}
+  year={2025} 
 }
 ```
