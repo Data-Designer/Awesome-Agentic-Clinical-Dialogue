@@ -231,6 +231,8 @@ This framework facilitates a systematic analysis of the intrinsic trade-offs bet
 |Minnesota|Rui Zhang|[Homepage](https://ruizhang.umn.edu/)|
 |Monash|AIM Lab|[Homepage](https://www.monash.edu/it/aimh-lab)|
 |USYD|Med AI Lab|[Homepage](https://www.sydney.edu.au/engineering/our-research/biomedical-healthcare-engineering/digital-health-and-biomedical-ai.html)|
+|Open Source Platform|OpenMed Lab|[Homepage](https://github.com/openmedlab)|
+
 
 
 ## 📖 Awesome Methods, Model, and Resource List
