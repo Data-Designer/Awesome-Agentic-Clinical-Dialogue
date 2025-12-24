@@ -194,7 +194,7 @@ This framework facilitates a systematic analysis of the intrinsic trade-offs bet
 |Harvard|Xiang Li, Faisal Mahmood Lab, Pranav Rajpurkar, Tianxi Cai|[Homepage](https://xiangli-shaun.github.io/), [Homepage](https://faisal.ai/), [Homepage](https://pranavrajpurkar.com/), [Homepage](https://dbmi.hms.harvard.edu/people/tianxi-cai)|
 |Maryland|Hanan Samet|[Homepage](https://www.cs.umd.edu/~hjs/)|
 |MIT|Paul Liang, Peter Szolovits|[Homepage](https://pliang279.github.io/), [Homepage](https://people.csail.mit.edu/psz/web/publications.html)|
-|Oxford|Tingting Zhu, David A. Clifton|[Homepage](https://eng.ox.ac.uk/people/tingting-zhu), [Homepage](https://eng.ox.ac.uk/chi)|
+|Oxford|Tingting Zhu, David A. Clifton, Alison Noble|[Homepage](https://eng.ox.ac.uk/people/tingting-zhu), [Homepage](https://eng.ox.ac.uk/chi), [Homepage](https://scholar.google.com/citations?user=b0tmmYMAAAAJ&hl=en)|
 |Cambridge|Vanderschaar-lab, Andreas Vlachos|[Homepage](https://www.vanderschaar-lab.com/prof-mihaela-van-der-schaar/), [Homepage](https://andreasvlachos.github.io/)|
 |NTU|Chunyan Miao|[Homepage](https://dr.ntu.edu.sg/entities/person/Miao-Chun-Yan)|
 |Tsinghua University|Yang Liu, Hong-Yu Zhou, Weizhi Ma, Medical Informatics Lab |[Homepage](https://nlp.csai.tsinghua.edu.cn/~ly/), [Homepage](https://zhouhy.org/), [Homepage](https://mawz12.github.io/), [Homepage](https://huggingface.co/THUMedInfo)|
